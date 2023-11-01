@@ -60,7 +60,7 @@ export default function Footer() {
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://top.gg/bot/1073902407802687538/vote" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/api/oauth2/authorize?client_id=1073902407802687538&permissions=8&scope=bot" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
